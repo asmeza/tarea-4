@@ -2,8 +2,8 @@ import os
 
 
 def problema1():
-    print("problema1")
-
+    print("hola mundo")
+    
 def problema2():
     print("problema2")
 
